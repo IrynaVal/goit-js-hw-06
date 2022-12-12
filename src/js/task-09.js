@@ -10,5 +10,4 @@ function onBtnClick() {
   body.style.backgroundColor = getRandomHexColor();
   let color = document.querySelector(".color");
   color.textContent = body.style.backgroundColor;
-  return 
 }
